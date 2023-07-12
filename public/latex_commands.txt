@@ -1,0 +1,175 @@
+(...)
+[...]
+{ ... }
+\vert ... \vert
+\Vert ... \Vert
+\langle ... \rangle
+\lceil ... \rceil
+\lfloor ... \rfloor
+\left( ... \right)
+\left[ ... \right]
+\left\vert ... \right\vert
+\left\Vert ... \right\Vert
+\left\langle ... \right\rangle
+\left\lceil ... \right\rceil
+\left\lfloor ... \right\rfloor
+\left{ ... \right.
+\left. ... \right]
+\lt
+\gt
+\le
+\leq
+\leqq
+\leqslant
+\ge
+\geq
+\geqq
+\geqslant
+\neq
+\land
+\lor
+\lnot
+\forall
+\exists
+\nexists
+\top
+\bot
+\vdash
+\vDash
+\approx
+\sim
+\simeq
+\cong
+\equiv
+\prec
+\lhd
+\therefore
+\times
+\div
+\pm
+\mp
+\cdot
+\star
+\ast
+\oplus
+\circ
+\bullet
+\cup
+\cap
+\setminus
+\subset
+\subseteq
+\subsetneq
+\supset
+\in
+\notin
+\emptyset
+\varnothing
+\to
+\rightarrow
+\leftarrow
+\Rightarrow
+\Leftarrow
+\Leftrightarrow
+\mapsto
+\infty
+\nabla
+\partial
+\Im
+\Re
+\ldots
+\cdots
+\ell
+\sin x
+\cos x
+\tan x
+\cot x
+\sec x
+\csc x
+\arcsin x
+\arccos x
+\arctan x
+\sqrt{x^3}
+\sqrt[3]{\frac xy}
+\ln(x)
+\log_{2}(x)
+\sum_{n=1} ^{N} n
+\prod_{n=1} ^{N} n
+\int_{0} ^{\infty} x dx
+\iint_{0} ^{\infty} x dx
+\iiint_{0} ^{\infty} x dx
+\lim_{x \to \infty} {1 \over x }
+\max(1,2,3)
+\min(3,4,5)
+{n+1 \choose 2k}
+\binom{n+1}{2k} (n+12k)
+\alpha
+\beta
+\gamma
+\delta
+\epsilon
+\varepsilon
+\zeta
+\eta
+\theta
+\vartheta
+\iota
+\kappa
+\lambda
+\mu
+\nu
+\xi
+\omicron
+\pi
+\varpi
+\rho
+\varrho
+\sigma
+\varsigma
+\tau
+\upsilon
+\phi
+\varphi
+\chi
+\psi
+\omega
+\Gamma
+\Delta
+\Theta
+\Lambda
+\Xi
+\Pi
+\Sigma
+\Upsilon
+\Psi
+\Omega
+\mathbb{N}
+\mathbb{Z}
+\mathbb{Q}
+\mathbb{I}
+\mathbb{R}
+\mathbb{C}
+\text{ is an even number}
+\Bbb{blackboard bold}
+\mathbf{boldface}
+\mathit{italics}
+\pmb{boldfaced italics}
+\mathtt{ for typewriter}
+\mathrm{roman font}
+\mathsf{sans-serif font}
+\mathcal{calligraphic letters}
+\mathscr{script letters}
+\mathfrak{Fraktur (old German style) letters}
+Thin \ space
+Normal \; space
+Big \quad space
+Bigger \qquad space
+\hat{x}
+\overline{xyz}
+\vec{x}
+\widehat{xy}
+\bar{x}
+\overrightarrow{xy}
+\overleftrightarrow{xy}
+\dot{x}
+\ddot{x}
